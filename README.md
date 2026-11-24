@@ -1,0 +1,1 @@
+# keda-microservices-mensageria_dougbr-2026-11
